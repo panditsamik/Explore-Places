@@ -10,7 +10,7 @@
 
 - The app features a user-friendly "Bottom Navigator" for easy navigation across screens(Home, Search, Favourites, Profile).
 
-- A "Stack screen" opens providing detailed place information, including name, address, open/closed status, place pics, place location on map and user ratings. 
+- A "Stack screen" opens providing detailed place information, including name, address, open/closed status, place pictures, place location on map and user ratings. 
 
 - The app offers straightforward sharing of place details and convenient navigation through integration with Google Maps/Apple Maps. 
 
