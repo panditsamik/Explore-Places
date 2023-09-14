@@ -1,6 +1,6 @@
 # Explore-Places
 
-### A *Location-Based* Mobile App built with **React Native**, **Expo**, **React Navigation** and integrated with **Google Maps** and **Google Places API**. Users can find nearby restaurants, gas-stations, cafes, view and share details, and get directions.
+### A *Location-Based* Mobile App built with **React Native**, **Expo**, **React Navigation** and integrated with **Google Maps** and **Google Places API**. Users can find nearby restaurants, gas-stations, cafes, view and share details, search places and get directions.
 
 # Description
 
