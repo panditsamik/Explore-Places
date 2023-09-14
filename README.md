@@ -44,26 +44,22 @@
 
 ![telegram-cloud-photo-size-5-6061973342325424939-y](https://github.com/panditsamik/Explore-Places/assets/91545371/c111f443-f3dc-48f2-b8d1-cb163096b680)  
 
---
+
 
 ![telegram-cloud-photo-size-5-6061973342325424940-y](https://github.com/panditsamik/Explore-Places/assets/91545371/ced24e9a-756f-46d3-affa-732d1c9e7462)
 
 
---
-
 ![telegram-cloud-photo-size-5-6061973342325424938-y](https://github.com/panditsamik/Explore-Places/assets/91545371/1c9645c6-7d68-483c-82a1-047ac31a18a2)
 
---
 
 ![telegram-cloud-photo-size-5-6061973342325424941-y](https://github.com/panditsamik/Explore-Places/assets/91545371/50397423-1e8b-47ab-997e-6b6eced9c959)
 
---
 
 ![telegram-cloud-photo-size-5-6061973342325424942-y](https://github.com/panditsamik/Explore-Places/assets/91545371/ed2c30f1-803e-4ded-8f9c-c6772e021b7a)
 
---
 
 ![telegram-cloud-photo-size-5-6061973342325424943-y](https://github.com/panditsamik/Explore-Places/assets/91545371/4389a4ff-7d22-455a-876d-7a964cf917ed)
+
 
 ---
 
