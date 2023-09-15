@@ -42,30 +42,30 @@
 
 # Images
 
-![telegram-cloud-photo-size-5-6061973342325424939-y](https://github.com/panditsamik/Explore-Places/assets/91545371/c111f443-f3dc-48f2-b8d1-cb163096b680)  
+![1](https://github.com/panditsamik/Explore-Places/assets/91545371/bd030ad3-e7a0-4351-891a-67cc577ec443)
 
 
-
-![telegram-cloud-photo-size-5-6061973342325424940-y](https://github.com/panditsamik/Explore-Places/assets/91545371/ced24e9a-756f-46d3-affa-732d1c9e7462)
-
-
-![telegram-cloud-photo-size-5-6061973342325424938-y](https://github.com/panditsamik/Explore-Places/assets/91545371/1c9645c6-7d68-483c-82a1-047ac31a18a2)
+![2](https://github.com/panditsamik/Explore-Places/assets/91545371/f7013269-b6d0-4308-9141-14c697e14d46)
 
 
-![telegram-cloud-photo-size-5-6061973342325424941-y](https://github.com/panditsamik/Explore-Places/assets/91545371/50397423-1e8b-47ab-997e-6b6eced9c959)
+![3](https://github.com/panditsamik/Explore-Places/assets/91545371/4c323177-46ce-4c7e-98bc-b122505e0645)
 
 
-![telegram-cloud-photo-size-5-6061973342325424942-y](https://github.com/panditsamik/Explore-Places/assets/91545371/ed2c30f1-803e-4ded-8f9c-c6772e021b7a)
+![4](https://github.com/panditsamik/Explore-Places/assets/91545371/90691de0-7c4f-45dd-9f99-ce14bb4f353f)
 
 
-![telegram-cloud-photo-size-5-6061973342325424943-y](https://github.com/panditsamik/Explore-Places/assets/91545371/4389a4ff-7d22-455a-876d-7a964cf917ed)
+![5](https://github.com/panditsamik/Explore-Places/assets/91545371/de74cd2a-5b63-4c6e-afdd-a9f142502552)
 
+
+![6](https://github.com/panditsamik/Explore-Places/assets/91545371/ba90ddb5-0f0c-4145-83a7-43875ef2e18c)
 
 ---
 
 # Video
 
-https://github.com/panditsamik/Explore-Places/assets/91545371/57106812-f402-4f7e-b257-69ab2e00a1dc
+https://github.com/panditsamik/Explore-Places/assets/91545371/d724ff90-4a4f-427c-91aa-1cf27557d3c6
+
+
 
 
 
